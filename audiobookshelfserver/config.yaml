@@ -1,5 +1,5 @@
 name: Audiobookshelf Server
-version: 1.0.0
+version: 1.0.1
 slug: audiobookshelfserver
 description: Self-hosted audiobook & podcast server
 arch:
@@ -10,7 +10,6 @@ arch:
 image: ghcr.io/advplyr/audiobookshelf
 codenotary: bigred10151990@gmail.com
 startup: application
-apparmor: true
 boot: manual
 options:
   CONFIG_PATH: /config
@@ -29,10 +28,5 @@ legacy: true
 map:
   - media:rw
   - addon_config:rw
-ingress: false
-ingress_stream: true
-ingress_port: 13379
-ingress_root: /
 panel_icon: book-music
 panel_title: AudioBookShelf
-watchdog: tcp://[HOST]:[PORT:13379]
