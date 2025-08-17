@@ -1,5 +1,5 @@
 name: Audiobookshelf Server
-version: 1.0.7
+version: 1.0.3
 slug: audiobookshelfserver
 description: Self-hosted audiobook & podcast server
 arch:
