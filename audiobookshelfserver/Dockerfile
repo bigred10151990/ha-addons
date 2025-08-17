@@ -1,4 +1,8 @@
-FROM ghcr.io/advplyr/audiobookshelf:2.28.0
+ARG BUILD_FROM
+ARG BUILD_VERSION
+ARG BUILD_UPSTREAM="1.65.0"
+FROM ${BUILD_FROM}
+
 LABEL maintainer="Bigred <bigred10151990@gmail.com>"
 
 EXPOSE 80
