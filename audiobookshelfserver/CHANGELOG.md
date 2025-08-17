@@ -1,5 +1,11 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 
+## 1.0.3
+- screwing up all the versioning.
+- removed image option so addon version does not have to match audiobookshelf container version.
+- Added additional config options.
+- Updated Readme to better describe config options.
+
 ## 2.28.0
 
 - Updated version to match Audiobookshelfs version.
