@@ -8,7 +8,11 @@ Some addons I couldn't find anywhere else.
 
 This repository contains the following add-ons
 
-### [Example add-on](./example)
+### [Audiobookshelf Home Assistant Add-on](./audiobookshelfserver)
+
+[![GitHub Release][releases-shield]][releases]
+![Project Stage][project-stage-shield]
+[![License][license-shield]](LICENSE.md)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -16,7 +20,25 @@ This repository contains the following add-ons
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-_Example add-on to use as a blueprint for new add-ons._
+![Project Maintenance][maintenance-shield]
+[![GitHub Activity][commits-shield]][commits]
+
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
+[commits]: https://github.com/bigred10151990/ha-addons/commits/main
+[issue]: https://github.com/bigred10151990/ha-addons/issues
+[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
+[releases]: https://github.com/bigred10151990/ha-addons/releases
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+
+This add-on runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 <!--
 
@@ -36,9 +58,3 @@ Notes to developers after forking or using the github template feature:
 - Share your repository on the forums https://community.home-assistant.io/c/projects/9
 - Do awesome stuff!
  -->
-
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
