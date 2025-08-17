@@ -4,7 +4,7 @@
   "slug": "audiobookshelfserver",
   "description": "Self-hosted audiobook & podcast server",
   "arch": ["amd64", "armv7", "armhf", "aarch64"],
-  "image": "ghcr.io/advplyr/audiobookshelf"
+  "image": "ghcr.io/advplyr/audiobookshelf",
   "codenotary": "bigred10151990@gmail.com",
   "startup": "application",
   "apparmor": true,
