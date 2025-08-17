@@ -1,0 +1,6 @@
+---
+build_from:
+  aarch64: ghcr.io/advplyr/audiobookshelf:2.28.0
+  amd64: ghcr.io/advplyr/audiobookshelf:2.28.0
+codenotary:
+  signer: bigred10151990@gmail.com
