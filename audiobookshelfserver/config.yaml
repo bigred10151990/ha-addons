@@ -1,0 +1,38 @@
+name: Audiobookshelf Server
+version: 1.0.0
+slug: audiobookshelfserver
+description: Self-hosted audiobook & podcast server
+arch:
+  - amd64
+  - armv7
+  - armhf
+  - aarch64
+image: ghcr.io/advplyr/audiobookshelf
+codenotary: bigred10151990@gmail.com
+startup: application
+apparmor: true
+boot: manual
+options:
+  CONFIG_PATH: /config
+  METADATA_PATH: /metadata
+  TZ: America/Los_Angeles
+schema:
+  CONFIG_PATH: str
+  METADATA_PATH: str
+  TZ: str
+ports:
+  80/tcp: 13379
+ports_description:
+  13379/tcp: Web interface port
+webui: http://[HOST]:[PORT:13379]
+legacy: true
+map:
+  - media:rw
+  - addon_config:rw
+ingress: false
+ingress_stream: true
+ingress_port: 13379
+ingress_root: /
+panel_icon: book-music
+panel_title: AudioBookShelf
+watchdog: tcp://[HOST]:[PORT:13379]
