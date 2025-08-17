@@ -9,7 +9,6 @@ arch:
   - aarch64
 image: ghcr.io/advplyr/audiobookshelf
 codenotary: bigred10151990@gmail.com
-startup: application
 boot: manual
 options:
   CONFIG_PATH: /config
