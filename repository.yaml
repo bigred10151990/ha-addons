@@ -1,4 +1,3 @@
-# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Bigred's Home Assistant add-on repository
 url: 'https://github.com/bigred10151990/ha-addons'
 maintainer: Bigred <bigred10151990@gmail.com>
