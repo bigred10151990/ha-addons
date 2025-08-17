@@ -40,10 +40,23 @@ If you want to use a network drive please add it to homeassistant in Network Sto
 
 ## Configuration
 
-- PORT: Port on which Audiobookshelf will be available (default: 13379).
-- CONFIG_PATH: Location to store configuration and database for ABS.
-- METADATA_PATH": Location to store metadata for ABS.
-- TZ: Timezone
+- **CONFIG_PATH** (default: /config)
+  - Path to the config directory.
+  - It will contain the database (users/books/libraries/settings). This location must not be mounted over the network.
+
+- **METADATA_PATH** (default: /metadata)
+  - Path to the metadata directory.
+  - It will contain cache, streams, covers, downloads, backups and logs.
+
+- **BACKUP_PATH** (default: /metadata/backups)
+  - Path to where backups are stored.
+  - Backups contain a backup of the database in /config and images/metadata stored in /metadata/items and /metadata/authors
+
+- **ALLOW_CORS** (default: '0')
+  - Allow Cross-Origin Resource Sharing if set to '1'.
+
+- **ALLOW_IFRAME ** (default: '1')
+  - Allow use of iframes. This can also be done at the reverse proxy level.
 
 
 ## Disclaimers and copyright information
