@@ -44,3 +44,23 @@ If you want to use a network drive please add it to homeassistant in Network Sto
 - CONFIG_PATH: Location to store configuration and database for ABS.
 - METADATA_PATH": Location to store metadata for ABS.
 - TZ: Timezone
+
+
+## Disclaimers and copyright information
+
+I have just put the wrapper on the official Audiobookshelf docker image so it works as a home assistant addon. 
+
+Audiobookshelf  Self-hosted audiobook server
+Copyright (C) 2021  advplyr
+
+This program comes with ABSOLUTELY NO WARRANTY
+
+
+
+
+
+
+
+
+
+
