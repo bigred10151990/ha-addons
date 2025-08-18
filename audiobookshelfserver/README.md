@@ -56,7 +56,7 @@ If you want to use a network drive please add it to homeassistant in Network Sto
 - **ALLOW_CORS** (default: '0')
   - Allow Cross-Origin Resource Sharing if set to '1'.
 
-- **ALLOW_IFRAME ** (default: '1')
+- **ALLOW_IFRAME** (default: '1')
   - Allow use of iframes. This can also be done at the reverse proxy level.
 
 
