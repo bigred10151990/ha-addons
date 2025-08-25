@@ -1,4 +1,6 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.0.4
+- Update to AudioBookShelf Version 2.29.0
 
 ## 1.0.3
 - screwing up all the versioning.
