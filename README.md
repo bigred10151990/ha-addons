@@ -10,12 +10,12 @@ This repository contains the following add-ons
 
 ### [Audiobookshelf Home Assistant Add-on](./audiobookshelfserver)
 
-[![GitHub Release][releases-shield]][releases]
-![Project Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE.md)
+[![GitHub Release][ABSreleases-shield]][ABSreleases]
+![Project Maintenance][ABSmaintenance-shield]
+[![License][ABSlicense-shield]](LICENSE.md)
 
-![Supports aarch64 Architecture][aarch64-shield]
-![Supports amd64 Architecture][amd64-shield]
+![Supports aarch64 Architecture][ABSaarch64-shield]
+![Supports amd64 Architecture][ABSamd64-shield]
 ![Supports armhf Architecture][armhf-shield]
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
@@ -27,36 +27,34 @@ This repository contains the following add-ons
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
 [issue]: https://github.com/bigred10151990/audiobookshelfserver/issues
-[license-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
-[releases]: https://github.com/bigred10151990/audiobookshelfserver/releases
+[ABSlicense-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
+[ABSmaintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[ABSreleases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
+[ABSreleases]: https://github.com/bigred10151990/audiobookshelfserver/releases
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 
-This add-on runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
-
 ### [BookLore Home Assistant Add-on](./bookloreserver)
-[![GitHub Release][releases-shield]][releases]
-![Project Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE.md)
+[![GitHub Release][BLreleases-shield]][BLreleases]
+![Project Maintenance][BLmaintenance-shield]
+[![License][BLlicense-shield]](LICENSE.md)
 
-![Supports aarch64 Architecture][aarch64-shield]
-![Supports amd64 Architecture][amd64-shield]
-![Supports armhf Architecture][armhf-shield]
-![Supports armv7 Architecture][armv7-shield]
-![Supports i386 Architecture][i386-shield]
+![Supports aarch64 Architecture][BLaarch64-shield]
+![Supports amd64 Architecture][BLamd64-shield]
+![Supports armhf Architecture][BLarmhf-shield]
+![Supports armv7 Architecture][BLarmv7-shield]
+![Supports i386 Architecture][BLi386-shield]
 
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[BLaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[BLamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[BLarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[BLarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[BLi386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[issue]: https://github.com/bigred10151990/bookloreserver/issues
-[license-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
-[releases]: https://github.com/bigred10151990/bookloreserver/releases
+[BLissue]: https://github.com/bigred10151990/bookloreserver/issues
+[BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
+[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[BLreleases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
+[BLreleases]: https://github.com/bigred10151990/bookloreserver/releases
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
