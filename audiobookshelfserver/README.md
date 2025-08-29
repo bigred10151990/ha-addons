@@ -19,12 +19,12 @@
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
 [commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
-[commits]: https://github.com/bigred10151990/ha-addons/commits/main
-[issue]: https://github.com/bigred10151990/ha-addons/issues
+[commits]: https://github.com/bigred10151990/audiobookshelfserver/commits/main
+[issue]: https://github.com/bigred10151990/audiobookshelfserver/issues
 [license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
-[releases]: https://github.com/bigred10151990/ha-addons/releases
+[releases]: https://github.com/bigred10151990/audiobookshelfserver/releases
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 
 This add-on runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
