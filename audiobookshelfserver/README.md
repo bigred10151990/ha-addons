@@ -1,6 +1,6 @@
 # Audiobookshelf Home Assistant Add-on
 [![GitHub Release][releases-shield]][releases]
-![Project Stage][project-stage-shield]
+![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
 ![Supports aarch64 Architecture][aarch64-shield]
@@ -9,19 +9,14 @@
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-![Project Maintenance][maintenance-shield]
-[![GitHub Activity][commits-shield]][commits]
-
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
-[commits]: https://github.com/bigred10151990/audiobookshelfserver/commits/main
 [issue]: https://github.com/bigred10151990/audiobookshelfserver/issues
-[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[license-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
 [releases]: https://github.com/bigred10151990/audiobookshelfserver/releases
