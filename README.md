@@ -11,7 +11,7 @@ This repository contains the following add-ons
 ### [Audiobookshelf Home Assistant Add-on](./audiobookshelfserver)
 
 [![GitHub Release][releases-shield]][releases]
-![Project Stage][project-stage-shield]
+![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
 ![Supports aarch64 Architecture][aarch64-shield]
@@ -20,17 +20,12 @@ This repository contains the following add-ons
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-![Project Maintenance][maintenance-shield]
-[![GitHub Activity][commits-shield]][commits]
-
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
-[commits]: https://github.com/bigred10151990/audiobookshelfserver/commits/main
 [issue]: https://github.com/bigred10151990/audiobookshelfserver/issues
 [license-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
@@ -39,6 +34,33 @@ This repository contains the following add-ons
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 
 This add-on runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
+
+### [BookLore Home Assistant Add-on](./bookloreserver)
+[![GitHub Release][releases-shield]][releases]
+![Project Maintenance][maintenance-shield]
+[![License][license-shield]](LICENSE.md)
+
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
+
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[issue]: https://github.com/bigred10151990/bookloreserver/issues
+[license-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
+[releases]: https://github.com/bigred10151990/bookloreserver/releases
+
+This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
+
+**This addon REQUIRES the MariaDB addon or a seprate MariaDB instance**
 
 <!--
 
