@@ -1,26 +1,22 @@
 # Audiobookshelf Home Assistant Add-on
-[![GitHub Release][releases-shield]][releases]
-![Project Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE.md)
+![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/audiobookshelfserver)
+![Project Maintenance][ABSmaintenance-shield]
+[![License][ABSlicense-shield]](LICENSE.md)
 
-![Supports aarch64 Architecture][aarch64-shield]
-![Supports amd64 Architecture][amd64-shield]
-![Supports armhf Architecture][armhf-shield]
-![Supports armv7 Architecture][armv7-shield]
-![Supports i386 Architecture][i386-shield]
+![Supports aarch64 Architecture][ABSaarch64-shield]
+![Supports amd64 Architecture][ABSamd64-shield]
+![Supports armhf Architecture][ABSarmhf-shield]
+![Supports armv7 Architecture][ABSarmv7-shield]
+![Supports i386 Architecture][ABSi386-shield]
 
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[ABSaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[ABSamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[ABSarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[ABSarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[ABSi386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[issue]: https://github.com/bigred10151990/audiobookshelfserver/issues
-[license-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
-[releases]: https://github.com/bigred10151990/audiobookshelfserver/releases
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[ABSlicense-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
+[ABSmaintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 
 This add-on runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
