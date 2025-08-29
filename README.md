@@ -51,8 +51,6 @@ This add-on runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home A
 [BLissue]: https://github.com/bigred10151990/bookloreserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
 [BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[BLreleases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
-[BLreleases]: https://github.com/bigred10151990/bookloreserver/releases
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
