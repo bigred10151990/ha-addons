@@ -1,0 +1,34 @@
+name: BookLore Server
+version: 0.1.0
+slug: bookloreserver
+description: Self-hosted ebook server
+arch:
+  - amd64
+  - aarch64
+codenotary: bigred10151990@gmail.com
+boot: manual
+environment:
+  PUID: "1000"
+  PGID: "1000"
+  BOOKLORE_PORT: "6060"
+options:
+  TZ: Etc/UTC
+  DATABASE_URL: "jdbc:mariadb://homeassistant:3306/booklore"
+  DATABASE_USERNAME: booklore
+  DATABASE_PASSWORD: your_secure_password
+  SWAGGER_ENABLED: "false"
+schema:
+  TZ: str
+  DATABASE_URL: str
+  DATABASE_USERNAME: str
+  DATABASE_PASSWORD: str
+  SWAGGER_ENABLED: str
+ports:
+  6060/tcp: 6060
+ports_description:
+  6060/tcp: Web interface port. Do Not Change!
+webui: http://[HOST]:[PORT:6060]
+legacy: true
+map:
+  - media:rw
+  - addon_config:rw
