@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.1.3
+- Update BookLore Version from 1.2.1 to 1.3.2
+
 ## 1.1.2
 - Update BookLore Version from 1.1.2 to 1.2.1
 
