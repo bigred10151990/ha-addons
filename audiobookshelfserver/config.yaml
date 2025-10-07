@@ -11,6 +11,7 @@ options:
   CONFIG_PATH: /config
   METADATA_PATH: /metadata
   BACKUP_PATH: /metadata/backups
+  REFRESH_TOKEN_EXPIRY: 604800
   ALLOW_CORS: 0
   ALLOW_IFRAME: 1
   TZ: America/Los_Angeles
@@ -18,6 +19,7 @@ schema:
   CONFIG_PATH: str
   METADATA_PATH: str
   BACKUP_PATH: str
+  REFRESH_TOKEN_EXPIRY: int
   ALLOW_CORS: int
   ALLOW_IFRAME: int
   TZ: str

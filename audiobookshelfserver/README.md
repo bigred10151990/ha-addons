@@ -44,6 +44,9 @@ If you want to use a network drive please add it to homeassistant in Network Sto
   - Path to where backups are stored.
   - Backups contain a backup of the database in /config and images/metadata stored in /metadata/items and /metadata/authors
 
+- **REFRESH_TOKEN_EXPIRY** (default: '604800')
+  - Refresh token expiration in seconds (default: 604800 = 7 days)
+
 - **ALLOW_CORS** (default: '0')
   - Allow Cross-Origin Resource Sharing if set to '1'.
 
