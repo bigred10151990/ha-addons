@@ -1,20 +1,25 @@
 name: Audiobookshelf Server
-version: 1.0.5
+version: 1.0.4
 slug: audiobookshelfserver
 description: Self-hosted audiobook & podcast server
 arch:
   - amd64
   - aarch64
-image: ghcr.io/advplyr/audiobookshelf
 codenotary: bigred10151990@gmail.com
 boot: manual
 options:
   CONFIG_PATH: /config
   METADATA_PATH: /metadata
+  BACKUP_PATH: /metadata/backups
+  ALLOW_CORS: 0
+  ALLOW_IFRAME: 1
   TZ: America/Los_Angeles
 schema:
   CONFIG_PATH: str
   METADATA_PATH: str
+  BACKUP_PATH: str
+  ALLOW_CORS: int
+  ALLOW_IFRAME: int
   TZ: str
 ports:
   80/tcp: 13379
