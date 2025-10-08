@@ -21,7 +21,6 @@ ports:
 ports_description:
   13379/tcp: Web interface port
 webui: http://[HOST]:[PORT:13379]
-legacy: true
 map:
   - media:rw
   - addon_config:rw
