@@ -29,7 +29,7 @@
 
 This add-on runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
-This addon has access to the addon_config and media folders.  
+This addon has access to the addon_config, backup, and media folders.  
 AudioBookShelf Version 2.30.0
 
 ## Installation
