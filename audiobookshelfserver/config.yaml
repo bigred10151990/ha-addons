@@ -1,5 +1,5 @@
 name: Audiobookshelf Server
-version: 1.0.4
+version: 1.1.0
 slug: audiobookshelfserver
 description: Self-hosted audiobook & podcast server
 arch:
@@ -9,8 +9,8 @@ codenotary: bigred10151990@gmail.com
 boot: manual
 options:
   CONFIG_PATH: /config
-  METADATA_PATH: /metadata
-  BACKUP_PATH: /metadata/backups
+  METADATA_PATH: /config/metadata
+  BACKUP_PATH: /backup/audiobookshelfserver
   REFRESH_TOKEN_EXPIRY: 604800
   ALLOW_CORS: 0
   ALLOW_IFRAME: 1
@@ -32,5 +32,6 @@ legacy: true
 map:
   - media:rw
   - addon_config:rw
+  - backup:rw
 panel_icon: book-music
 panel_title: AudioBookShelf
