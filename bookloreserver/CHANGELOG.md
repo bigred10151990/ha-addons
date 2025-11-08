@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.1.6
+- Update BookLore Version from 1.8.1 to 1.10.0
+
 ## 1.1.5
 - Update BookLore Version from 1.5.1 to 1.8.1
 

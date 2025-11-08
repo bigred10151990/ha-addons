@@ -21,7 +21,7 @@
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
-Base BookLore Version 1.8.1
+Base BookLore Version 1.10.0
 
 **This addon REQUIRES the MariaDB addon or a seprate MariaDB instance**
 
