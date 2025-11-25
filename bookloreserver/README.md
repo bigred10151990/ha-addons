@@ -21,11 +21,11 @@
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
-Base BookLore Version 1.10.0
+Base BookLore Version 1.11.0
 
 **This addon REQUIRES the MariaDB addon or a seprate MariaDB instance**
 
-This addon has access to the addon_config and media folders.
+This addon has access to the addon_config, media and share folders.
 
 ## Installation
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbigred10151990%2Fha-addons)

@@ -1,4 +1,9 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.2.0
+- Update BookLore Version from 1.10.0 to 1.11.0
+- Update DATABASE_PASSWORD config option to use the Password Schema for better security
+- Added Share folder access based on user request.
+
 ## 1.1.6
 - Update BookLore Version from 1.8.1 to 1.10.0
 

@@ -1,5 +1,5 @@
 name: BookLore Server
-version: 1.1.6
+version: 1.2.0
 slug: bookloreserver
 description: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 arch:
@@ -21,7 +21,7 @@ schema:
   TZ: str
   DATABASE_URL: str
   DATABASE_USERNAME: str
-  DATABASE_PASSWORD: str
+  DATABASE_PASSWORD: password
   SWAGGER_ENABLED: str
 ports:
   6060/tcp: 6060
@@ -32,3 +32,4 @@ legacy: true
 map:
   - media:rw
   - addon_config:rw
+  - share:rw
