@@ -1,5 +1,5 @@
 name: Audiobookshelf Server
-version: 1.1.0
+version: 1.2.0
 slug: audiobookshelfserver
 description: Self-hosted audiobook & podcast server
 arch:
@@ -31,5 +31,6 @@ map:
   - media:rw
   - addon_config:rw
   - backup:rw
+  - share:rw
 panel_icon: book-music
 panel_title: AudioBookShelf

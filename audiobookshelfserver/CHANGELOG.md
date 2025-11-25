@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.2.0
+- Added Share folder access based on user request.
+
 ## 1.1.0
 ### Breaking Changes
 - The old default configuration left the metatdata folder in nonpersistant storage and will be cleared on update. I was not aware this would happen when using the default metadata path mapping as I use the media folder for all of my mappings. this will include backups, author images, and any other items in the metadata folder.
