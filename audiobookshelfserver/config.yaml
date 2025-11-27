@@ -1,5 +1,5 @@
 name: Audiobookshelf Server
-version: 1.2.0
+version: 1.2.1
 slug: audiobookshelfserver
 description: Self-hosted audiobook & podcast server
 arch:
@@ -14,6 +14,8 @@ options:
   ALLOW_CORS: 0
   ALLOW_IFRAME: 1
   TZ: America/Los_Angeles
+  ACCESS_TOKEN_EXPIRY: 43200
+  REFRESH_TOKEN_EXPIRY: 604800
 schema:
   CONFIG_PATH: str
   METADATA_PATH: str
@@ -21,6 +23,8 @@ schema:
   ALLOW_CORS: int
   ALLOW_IFRAME: int
   TZ: str
+  ACCESS_TOKEN_EXPIRY: int
+  REFRESH_TOKEN_EXPIRY: int
 ports:
   80/tcp: 13379
 ports_description:

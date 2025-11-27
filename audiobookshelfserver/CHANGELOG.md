@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.2.1
+- Added additional options ACCESS_TOKEN_EXPIRY and REFRESH_TOKEN_EXPIRY
+
 ## 1.2.0
 - Added Share folder access based on user request.
 

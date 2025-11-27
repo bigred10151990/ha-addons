@@ -59,6 +59,12 @@ If you want to use a network drive please add it to homeassistant in Network Sto
 - **ALLOW_IFRAME** (default: '1')
   - Allow use of iframes. This can also be done at the reverse proxy level.
 
+- **ACCESS_TOKEN_EXPIRY** (default: '43200')
+  - Access token expiration in seconds (default: 43200 = 12 hours)
+
+- **REFRESH_TOKEN_EXPIRY** (default: '604800')
+  - Refresh token expiration in seconds (default: 604800 = 7 days)
+
 
 ## Disclaimers and copyright information
 
