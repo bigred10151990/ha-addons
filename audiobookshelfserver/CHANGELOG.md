@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.2.2
+- Update to AudioBookShelf Version 2.31.0
+
 ## 1.2.1
 - Added additional options ACCESS_TOKEN_EXPIRY and REFRESH_TOKEN_EXPIRY
 
