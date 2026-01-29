@@ -5,7 +5,6 @@ description: Self-hosted audiobook & podcast server
 arch:
   - amd64
   - aarch64
-codenotary: bigred10151990@gmail.com
 boot: manual
 options:
   CONFIG_PATH: /config
