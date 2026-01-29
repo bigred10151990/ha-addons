@@ -5,7 +5,6 @@ description: BookLore is a self-hosted app for managing and reading books & comi
 arch:
   - amd64
   - aarch64
-codenotary: bigred10151990@gmail.com
 boot: manual
 environment:
   PUID: "1000"
