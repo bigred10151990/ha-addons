@@ -27,7 +27,7 @@ This repository contains the following add-ons
 [ABSi386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
 [ABSlicense-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
-[ABSmaintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[ABSmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 
 This add-on runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
@@ -50,7 +50,7 @@ This add-on runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home A
 
 [BLissue]: https://github.com/bigred10151990/bookloreserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
-[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
