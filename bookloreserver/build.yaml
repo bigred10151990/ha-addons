@@ -2,5 +2,3 @@
 build_from:
   aarch64: ghcr.io/booklore-app/booklore:v1.16.5
   amd64: ghcr.io/booklore-app/booklore:v1.16.5
-codenotary:
-  signer: bigred10151990@gmail.com
