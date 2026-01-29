@@ -17,11 +17,11 @@
 
 [BLissue]: https://github.com/bigred10151990/bookloreserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
-[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
-Base BookLore Version 1.16.5
+Base BookLore Version 1.18.5
 
 **This addon REQUIRES the MariaDB addon or a seprate MariaDB instance**
 
