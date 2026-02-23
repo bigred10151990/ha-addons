@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 2.0.0
+- Update BookLore Version from 1.18.5 to 2.0.0
+
 ## 1.2.5
 - Update BookLore Version from 1.16.5 to 1.18.5
 - Remove depreciated codenotary field 
