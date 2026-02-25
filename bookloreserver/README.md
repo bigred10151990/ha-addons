@@ -21,7 +21,7 @@
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
-Base BookLore Version 1.18.5
+Base BookLore Version 2.0.1
 
 **This addon REQUIRES the MariaDB addon or a seprate MariaDB instance**
 
@@ -37,7 +37,7 @@ If you want to use a network drive please add it to homeassistant in Network Sto
 ## Configuration
 
 - TZ: Timezone
-- DATABASE_URL: URL to access MariaDB database. (default: jdbc:mariadb://homeassistant:3306/booklore)
+- DATABASE_URL: URL to access MariaDB database. (default: jdbc:mariadb://core-mariadb:3306/booklore?useUnicode=true&characterEncoding=utf8mb4)
 - DATABASE_USERNAME: Database username for booklore DB (default: booklore)
 - DATABASE_PASSWORD: Database users password.
 - SWAGGER_ENABLED: Enable or disable Swagger UI API docs. Set to 'true' to allow access; 'false' to block access (default: false).

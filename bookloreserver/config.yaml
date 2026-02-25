@@ -1,5 +1,5 @@
 name: BookLore Server
-version: 1.2.5
+version: 2.0.1
 slug: bookloreserver
 description: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 arch:
@@ -7,12 +7,12 @@ arch:
   - aarch64
 boot: manual
 environment:
-  PUID: "1000"
-  PGID: "1000"
+  USER_ID: "0"
+  GROUP_ID: "0"
   BOOKLORE_PORT: "6060"
 options:
   TZ: Etc/UTC
-  DATABASE_URL: "jdbc:mariadb://homeassistant:3306/booklore"
+  DATABASE_URL: "jdbc:mariadb://core-mariadb:3306/booklore?useUnicode=true&characterEncoding=utf8mb4"
   DATABASE_USERNAME: booklore
   DATABASE_PASSWORD: your_secure_password
   SWAGGER_ENABLED: "false"
