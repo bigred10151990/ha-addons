@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 2.0.2
+- Update BookLore Version from 2.0.1 to 2.2.0
+
 ## 2.0.1
 - Update BookLore Version from 2.0.0 to 2.0.1
 - Updated Config to use USER_ID: "0" and GROUP_ID: "0". This seems to ahve fixed an issue with new users being unable to start the service.
