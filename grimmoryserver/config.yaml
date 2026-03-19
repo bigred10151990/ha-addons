@@ -1,0 +1,34 @@
+name: Grimmory server
+version: 1.0.0
+slug: grimmoryserver
+description: Grimmory is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+arch:
+  - amd64
+  - aarch64
+boot: manual
+environment:
+  USER_ID: "0"
+  GROUP_ID: "0"
+  GRIMMORY_PORT: "6060"
+options:
+  TZ: Etc/UTC
+  DATABASE_URL: "jdbc:mariadb://core-mariadb:3306/grimmory?useUnicode=true&characterEncoding=utf8mb4"
+  DATABASE_USERNAME: grimmory
+  DATABASE_PASSWORD: your_secure_password
+  SWAGGER_ENABLED: "false"
+schema:
+  TZ: str
+  DATABASE_URL: str
+  DATABASE_USERNAME: str
+  DATABASE_PASSWORD: password
+  SWAGGER_ENABLED: str
+ports:
+  6060/tcp: 6060
+ports_description:
+  6060/tcp: Web interface port. Do Not Change!
+webui: http://[HOST]:[PORT:6060]
+legacy: true
+map:
+  - media:rw
+  - addon_config:rw
+  - share:rw
