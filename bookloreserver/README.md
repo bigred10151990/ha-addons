@@ -1,4 +1,4 @@
-# BookLore Home Assistant Add-on
+# BookLore Home Assistant Add-on - Depriciated. Use Grimmory App Now.
 ![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/bookloreserver)
 ![Project Maintenance][BLmaintenance-shield]
 [![License][BLlicense-shield]](LICENSE.md)
@@ -17,7 +17,7 @@
 
 [BLissue]: https://github.com/bigred10151990/bookloreserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
-[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[BLmaintenance-shield]: https://img.shields.io/maintenance/no/2026.svg
 
 This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
