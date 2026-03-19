@@ -77,7 +77,7 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons
 [BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 
-This App runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
+This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
 
 ### [BookLore Home Assistant App - Depreciated](./bookloreserver)
 ![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/bookloreserver)
