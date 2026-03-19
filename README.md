@@ -1,14 +1,14 @@
-# bigred's Home Assistant add-on repository
+# bigred's Home Assistant App repository
 
-Some addons I couldn't find anywhere else.
+Some Apps I couldn't find anywhere else.
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbigred10151990%2Fha-addons)
+[![Open your Home Assistant instance and show the add app repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbigred10151990%2Fha-addons)
 
-## Add-ons
+## Apps
 
-This repository contains the following add-ons
+This repository contains the following apps
 
-### [Audiobookshelf Home Assistant Add-on](./audiobookshelfserver)
+### [Audiobookshelf Home Assistant App](./audiobookshelfserver)
 
 ![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/audiobookshelfserver)
 ![Project Maintenance][ABSmaintenance-shield]
@@ -29,9 +29,57 @@ This repository contains the following add-ons
 [ABSlicense-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
 [ABSmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 
-This add-on runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
+This app runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
-### [BookLore Home Assistant Add-on](./bookloreserver)
+### [Grimmory Home Assistant App](./grimmroyserver)
+![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/grimmoryserver)
+![Project Maintenance][BLmaintenance-shield]
+[![License][BLlicense-shield]](LICENSE.md)
+
+![Supports aarch64 Architecture][BLaarch64-shield]
+![Supports amd64 Architecture][BLamd64-shield]
+![Supports armhf Architecture][BLarmhf-shield]
+![Supports armv7 Architecture][BLarmv7-shield]
+![Supports i386 Architecture][BLi386-shield]
+
+[BLaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[BLamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[BLarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[BLarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[BLi386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[BLissue]: https://github.com/bigred10151990/grimmoryserver/issues
+[BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/grimmoryserver
+[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+
+This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
+
+**This addon REQUIRES the MariaDB app or a seprate MariaDB instance**
+
+### [ABS-KoSync Enhanced App](./abs-kosync-enhanced)
+![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/abs-kosync-enhanced)
+![Project Maintenance][BLmaintenance-shield]
+[![License][BLlicense-shield]](LICENSE.md)
+
+![Supports aarch64 Architecture][BLaarch64-shield]
+![Supports amd64 Architecture][BLamd64-shield]
+![Supports armhf Architecture][BLarmhf-shield]
+![Supports armv7 Architecture][BLarmv7-shield]
+![Supports i386 Architecture][BLi386-shield]
+
+[BLaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[BLamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[BLarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[BLarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[BLi386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[BLissue]: https://github.com/bigred10151990/ha-addons/issues
+[BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons
+[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+
+This App runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
+
+### [BookLore Home Assistant App - Depreciated](./bookloreserver)
 ![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/bookloreserver)
 ![Project Maintenance][BLmaintenance-shield]
 [![License][BLlicense-shield]](LICENSE.md)
@@ -50,9 +98,9 @@ This add-on runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home A
 
 [BLissue]: https://github.com/bigred10151990/bookloreserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
-[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[BLmaintenance-shield]: https://img.shields.io/maintenance/no/2026.svg
 
-This add-on runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
+This app runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
 **This addon REQUIRES the MariaDB addon or a seprate MariaDB instance**
 
