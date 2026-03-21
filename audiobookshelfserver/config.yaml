@@ -15,6 +15,7 @@ options:
   TZ: America/Los_Angeles
   ACCESS_TOKEN_EXPIRY: 43200
   REFRESH_TOKEN_EXPIRY: 604800
+  DISABLE_SSRF_REQUEST_FILTER: 0
 schema:
   CONFIG_PATH: str
   METADATA_PATH: str
@@ -24,6 +25,7 @@ schema:
   TZ: str
   ACCESS_TOKEN_EXPIRY: int
   REFRESH_TOKEN_EXPIRY: int
+  DISABLE_SSRF_REQUEST_FILTER: bool
 ports:
   80/tcp: 13379
 ports_description:
