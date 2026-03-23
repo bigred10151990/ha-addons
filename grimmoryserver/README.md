@@ -19,7 +19,7 @@
 
 This App runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
 
-Base Grimmory Version 1.0.0
+Base Grimmory Version 2.3.0
 
 **This app REQUIRES the MariaDB app or a seprate MariaDB instance**
 
