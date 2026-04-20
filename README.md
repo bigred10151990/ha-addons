@@ -81,7 +81,7 @@ This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-br
 
 ### [BookLore Home Assistant App - Depreciated](./bookloreserver)
 ![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/bookloreserver)
-![Project Maintenance][BLmaintenance-shield]
+![Project Maintenance][BLmaintenance-shield2]
 [![License][BLlicense-shield]](LICENSE.md)
 
 ![Supports aarch64 Architecture][BLaarch64-shield]
@@ -98,7 +98,7 @@ This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-br
 
 [BLissue]: https://github.com/bigred10151990/bookloreserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
-[BLmaintenance-shield]: https://img.shields.io/maintenance/no/2026.svg
+[BLmaintenance-shield2]: https://img.shields.io/maintenance/no/2026.svg
 
 This app runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
