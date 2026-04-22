@@ -26,7 +26,7 @@
 This App runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
 
 This App has access to the addon_config, backup, media, and share folders.  
-ABS-KoSync Enhanced Version 6.3.2
+ABS-KoSync Enhanced Version 6.5.0
 
 This App is a work in progress. I have not tested the syncing myself. Please open an issue for any problems so I can review them.
 
