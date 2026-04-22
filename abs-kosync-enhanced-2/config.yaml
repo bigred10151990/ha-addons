@@ -1,0 +1,27 @@
+name: ABS-KoSync Enhanced-2
+version: 1.1.0
+slug: abs-kosync-enhanced-2
+description: (Enhanced with Web-UI and three-way sync)The missing link between your ears and your eyes. Seamlessly sync your reading progress between Audiobookshelf (Audiobooks) and KOReader/KoSync (Ebooks). Start listening in the car, and pick up exactly where you left off on your Kindle or Kobo. (Enhanced with three-way sync)
+arch:
+  - amd64
+  - aarch64
+boot: manual
+options:
+  LOG_LEVEL: INFO
+  TZ: America/Los_Angeles
+schema:
+  LOG_LEVEL: str
+  TZ: str
+ports:
+  5757/tcp: 5757
+  5758/tcp: 5758
+ports_description:
+  5757/tcp: Admin Panel (Keep Private)
+  5758/tcp: Sync Protocol (Safe to Expose)
+webui: http://[HOST]:[PORT:5757]
+legacy: true
+map:
+  - media:rw
+  - addon_config:rw
+  - backup:rw
+  - share:rw
