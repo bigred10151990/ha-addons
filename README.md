@@ -28,6 +28,7 @@ This repository contains the following apps
 
 [ABSlicense-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
 [ABSmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
@@ -51,6 +52,7 @@ This app runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assi
 [BLissue]: https://github.com/bigred10151990/grimmoryserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/grimmoryserver
 [BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
 
@@ -76,6 +78,7 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 [BLissue]: https://github.com/bigred10151990/ha-addons/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons
 [BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
 
@@ -99,6 +102,7 @@ This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-br
 [BLissue]: https://github.com/bigred10151990/bookloreserver/issues
 [BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/bookloreserver
 [BLmaintenance-shield2]: https://img.shields.io/maintenance/no/2026.svg
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [BookLore](https://github.com/booklore-app/booklore) inside Home Assistant OS.
 
