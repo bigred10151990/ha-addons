@@ -20,6 +20,7 @@
 [commits]: https://github.com/bigred10151990/ha-addons/commits/main
 [issue]: https://github.com/bigred10151990/ha-addons/issues
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-WIP-yellow.svg
 
@@ -27,8 +28,6 @@ This App runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-br
 
 This App has access to the addon_config, backup, media, and share folders.  
 ABS-KoSync Enhanced Version 6.5.0
-
-This App is a work in progress. I have not tested the syncing myself. Please open an issue for any problems so I can review them.
 
 This is a second app and is the same code as the first one. ABS-KoSync Enhanced does not have multi user support so you may run a second instance for another users sync.
 
