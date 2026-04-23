@@ -27,6 +27,8 @@
 [releases]: https://github.com/bigred10151990/ha-addons/releases
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
+
 This app runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 This app has access to the addon_config, backup, media, and share folders.  
