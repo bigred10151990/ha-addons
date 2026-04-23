@@ -16,6 +16,7 @@
 
 [BLissue]: https://github.com/bigred10151990/grimmoryserver/issues
 [BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This App runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
 
