@@ -10,48 +10,61 @@ This repository contains the following apps
 
 ### [Audiobookshelf Home Assistant App](./audiobookshelfserver)
 
-![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/audiobookshelfserver)
-![Project Maintenance][ABSmaintenance-shield]
-[![License][ABSlicense-shield]](LICENSE.md)
+![Static Badge](https://img.shields.io/badge/release-1.3.0-blue)
+![Project Stage][project-stage-shield]
+[![License][license-shield]](LICENSE.md)
 
-![Supports aarch64 Architecture][ABSaarch64-shield]
-![Supports amd64 Architecture][ABSamd64-shield]
-![Supports armhf Architecture][ABSarmhf-shield]
-![Supports armv7 Architecture][ABSarmv7-shield]
-![Supports i386 Architecture][ABSi386-shield]
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
 
-[ABSaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[ABSamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ABSarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[ABSarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[ABSi386-shield]: https://img.shields.io/badge/i386-no-red.svg
+![Project Maintenance][maintenance-shield]
+[![GitHub Activity][commits-shield]][commits]
 
-[ABSlicense-shield]: https://img.shields.io/github/license/bigred10151990/audiobookshelfserver
-[ABSmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
+[commits]: https://github.com/bigred10151990/ha-addons/commits/main
+[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 ### [Grimmory Home Assistant App](./grimmroyserver)
-![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/grimmoryserver)
-![Project Maintenance][BLmaintenance-shield]
-[![License][BLlicense-shield]](LICENSE.md)
+![Static Badge](https://img.shields.io/badge/release-3.0.0-blue)
+![Project Stage][project-stage-shield]
+[![License][license-shield]](LICENSE.md)
 
-![Supports aarch64 Architecture][BLaarch64-shield]
-![Supports amd64 Architecture][BLamd64-shield]
-![Supports armhf Architecture][BLarmhf-shield]
-![Supports armv7 Architecture][BLarmv7-shield]
-![Supports i386 Architecture][BLi386-shield]
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
 
-[BLaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[BLamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[BLarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[BLarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[BLi386-shield]: https://img.shields.io/badge/i386-no-red.svg
+![Project Maintenance][maintenance-shield]
+[![GitHub Activity][commits-shield]][commits]
 
-[BLissue]: https://github.com/bigred10151990/grimmoryserver/issues
-[BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/grimmoryserver
-[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
+[commits]: https://github.com/bigred10151990/ha-addons/commits/main
+[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
@@ -59,25 +72,31 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 **This addon REQUIRES the MariaDB app or a seprate MariaDB instance**
 
 ### [ABS-KoSync Enhanced App](./abs-kosync-enhanced)
-![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/abs-kosync-enhanced)
-![Project Maintenance][BLmaintenance-shield]
-[![License][BLlicense-shield]](LICENSE.md)
+![Static Badge](https://img.shields.io/badge/release-1.1.0-blue)
+![Project Stage][project-stage-shield]
+[![License][license-shield]](LICENSE.md)
 
-![Supports aarch64 Architecture][BLaarch64-shield]
-![Supports amd64 Architecture][BLamd64-shield]
-![Supports armhf Architecture][BLarmhf-shield]
-![Supports armv7 Architecture][BLarmv7-shield]
-![Supports i386 Architecture][BLi386-shield]
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
 
-[BLaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[BLamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[BLarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[BLarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[BLi386-shield]: https://img.shields.io/badge/i386-no-red.svg
+![Project Maintenance][maintenance-shield]
+[![GitHub Activity][commits-shield]][commits]
 
-[BLissue]: https://github.com/bigred10151990/ha-addons/issues
-[BLlicense-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons
-[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
+[commits]: https://github.com/bigred10151990/ha-addons/commits/main
+[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.

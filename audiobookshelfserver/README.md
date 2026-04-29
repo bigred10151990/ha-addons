@@ -1,5 +1,5 @@
 # Audiobookshelf Home Assistant Add-on
-[![GitHub Release][releases-shield]][releases]
+![Static Badge](https://img.shields.io/badge/release-1.3.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -20,11 +20,8 @@
 
 [commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
 [commits]: https://github.com/bigred10151990/ha-addons/commits/main
-[issue]: https://github.com/bigred10151990/ha-addons/issues
 [license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[releases-shield]: https://img.shields.io/github/v/release/bigred10151990/audiobookshelfserver
-[releases]: https://github.com/bigred10151990/ha-addons/releases
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
@@ -32,7 +29,7 @@
 This app runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 This app has access to the addon_config, backup, media, and share folders.  
-AudioBookShelf Version 2.33.2
+AudioBookShelf Version 2.34.0
 
 ## Installation
 [![Open your Home Assistant instance and show the add app repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbigred10151990%2Fha-addons)
