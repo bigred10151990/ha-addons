@@ -37,4 +37,3 @@ map:
   - share:rw
 panel_icon: book-music
 panel_title: AudioBookShelf
-stage: stable
