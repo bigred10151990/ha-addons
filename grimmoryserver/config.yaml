@@ -32,4 +32,3 @@ map:
   - media:rw
   - addon_config:rw
   - share:rw
-stage: stable
