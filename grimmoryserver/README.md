@@ -1,21 +1,29 @@
 # Grimmory Home Assistant App
-![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/grimmoryserver)
-![Project Maintenance][BLmaintenance-shield]
+![Static Badge](https://img.shields.io/badge/release-3.0.0-blue)
+![Project Stage][project-stage-shield]
+[![License][license-shield]](LICENSE.md)
 
-![Supports aarch64 Architecture][BLaarch64-shield]
-![Supports amd64 Architecture][BLamd64-shield]
-![Supports armhf Architecture][BLarmhf-shield]
-![Supports armv7 Architecture][BLarmv7-shield]
-![Supports i386 Architecture][BLi386-shield]
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
 
-[BLaarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[BLamd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[BLarmhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[BLarmv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[BLi386-shield]: https://img.shields.io/badge/i386-no-red.svg
+![Project Maintenance][maintenance-shield]
+[![GitHub Activity][commits-shield]][commits]
 
-[BLissue]: https://github.com/bigred10151990/grimmoryserver/issues
-[BLmaintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
+[commits]: https://github.com/bigred10151990/ha-addons/commits/main
+[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This App runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
