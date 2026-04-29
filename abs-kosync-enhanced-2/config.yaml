@@ -25,4 +25,3 @@ map:
   - addon_config:rw
   - backup:rw
   - share:rw
-stage: stable
