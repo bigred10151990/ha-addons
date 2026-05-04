@@ -1,5 +1,5 @@
 # ABS-KoSync Enhanced Home Assistant Add-on
-![Static Badge](https://img.shields.io/badge/release-1.1.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.2.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -29,7 +29,7 @@
 This App runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
 
 This App has access to the addon_config, backup, media, and share folders.  
-ABS-KoSync Enhanced Version 6.5.0
+ABS-KoSync Enhanced Version 6.6.0
 
 This is a second app and is the same code as the first one. ABS-KoSync Enhanced does not have multi user support so you may run a second instance for another users sync.
 

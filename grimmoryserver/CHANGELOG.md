@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 3.0.1
+- Update Grimmory to version 3.0.3
+
 ## 3.0.0
 - Update Grimmory to version 3.0.2
 
