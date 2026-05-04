@@ -40,7 +40,7 @@ This repository contains the following apps
 This app runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 ### [Grimmory Home Assistant App](./grimmroyserver)
-![Static Badge](https://img.shields.io/badge/release-3.0.0-blue)
+![Static Badge](https://img.shields.io/badge/release-3.0.1-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
