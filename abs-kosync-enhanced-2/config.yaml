@@ -15,12 +15,12 @@ schema:
   TZ: str
   KOSYNC_PORT: int
 ports:
-  5757/tcp: 5757
-  5758/tcp: 5758
+  5757/tcp: 5759
+  5758/tcp: 5760
 ports_description:
   5757/tcp: Admin Panel (Keep Private)
   5758/tcp: Sync Protocol (Safe to Expose)
-webui: http://[HOST]:[PORT:5757]
+webui: http://[HOST]:[PORT:5759]
 legacy: true
 map:
   - media:rw
