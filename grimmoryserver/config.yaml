@@ -1,5 +1,5 @@
 name: Grimmory server
-version: 3.0.1
+version: 3.1.0
 slug: grimmoryserver
 description: Grimmory is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 arch:
