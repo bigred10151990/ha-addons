@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.3.0
+- Update to Version 6.7.0
+
 ## 1.2.1
 - Added KOSYNC_PORT
 
