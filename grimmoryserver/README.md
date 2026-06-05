@@ -1,5 +1,5 @@
 # Grimmory Home Assistant App
-![Static Badge](https://img.shields.io/badge/release-3.1.0-blue)
+![Static Badge](https://img.shields.io/badge/release-3.2.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -28,7 +28,7 @@
 
 This App runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
 
-Base Grimmory Version 3.1.0
+Base Grimmory Version 3.2.0
 
 **This app REQUIRES the MariaDB app or a seprate MariaDB instance**
 
@@ -48,6 +48,8 @@ If you want to use a network drive please add it to homeassistant in Network Sto
 - DATABASE_USERNAME: Database username for grimmory DB (default: grimmory)
 - DATABASE_PASSWORD: Database users password.
 - SWAGGER_ENABLED: Enable or disable Swagger UI API docs. Set to 'true' to allow access; 'false' to block access (default: false).
+- APP_PATH_CONFIG: Directory to store application data, cache, and logs (default: /config/data)
+- APP_BOOKDROP_FOLDER: Directory for Auto-import folder (default: /config/bookdrop)
 
 ## MariaDB App Steps
 

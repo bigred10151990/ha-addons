@@ -1,5 +1,5 @@
 # Audiobookshelf Home Assistant Add-on
-![Static Badge](https://img.shields.io/badge/release-1.4.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.4.1-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -29,7 +29,7 @@
 This app runs [Audiobookshelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 This app has access to the addon_config, backup, media, and share folders.  
-AudioBookShelf Version 2.35.0
+AudioBookShelf Version 2.35.1
 
 ## Installation
 [![Open your Home Assistant instance and show the add app repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbigred10151990%2Fha-addons)

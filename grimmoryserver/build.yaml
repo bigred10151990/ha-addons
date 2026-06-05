@@ -1,4 +1,4 @@
 ---
 build_from:
-  aarch64: grimmory/grimmory:v3.1.0
-  amd64: grimmory/grimmory:v3.1.0
+  aarch64: grimmory/grimmory:v3.2.0
+  amd64: grimmory/grimmory:v3.2.0
