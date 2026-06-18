@@ -1,0 +1,34 @@
+name: Listenarr
+version: 1.0.0
+slug: listenarrserver
+description: Automated audiobook collection management (like Sonarr/Radarr, but for audiobooks)
+arch:
+  - amd64
+  - aarch64
+boot: manual
+environment:
+  LISTENARR_PORT: "4545"
+options:
+  TZ: Etc/UTC
+  PUID: "1000"
+  PGID: "1000"
+  UMASK: "1000"
+  LISTENARR_CONTENT_ROOT: ""
+  LISTENARR_PUBLIC_URL: ""
+schema:
+  TZ: str
+  PUID: str
+  PGID: str
+  UMASK: str
+  LISTENARR_CONTENT_ROOT: str
+  LISTENARR_PUBLIC_URL: str?
+ports:
+  4545/tcp: 4545
+ports_description:
+  4545/tcp: Web interface port. Do Not Change!
+webui: http://[HOST]:[PORT:4545]
+legacy: true
+map:
+  - media:rw
+  - addon_config:rw
+  - share:rw
