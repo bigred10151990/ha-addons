@@ -10,7 +10,7 @@ This repository contains the following apps
 
 ### [Audiobookshelf Home Assistant App](./audiobookshelfserver)
 
-![Static Badge](https://img.shields.io/badge/release-1.4.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.4.1-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -40,7 +40,7 @@ This repository contains the following apps
 This app runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 ### [Grimmory Home Assistant App](./grimmroyserver)
-![Static Badge](https://img.shields.io/badge/release-3.1.0-blue)
+![Static Badge](https://img.shields.io/badge/release-3.2.1-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -100,6 +100,37 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
 This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
+
+### [Listenarr Home Assistant App](./listenarr)
+
+![Static Badge](https://img.shields.io/badge/release-1.0.0-blue)
+![Project Stage][project-stage-shield]
+[![License][license-shield]](LICENSE.md)
+
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
+
+![Project Maintenance][maintenance-shield]
+[![GitHub Activity][commits-shield]][commits]
+
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
+[commits]: https://github.com/bigred10151990/ha-addons/commits/main
+[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
+
+This App runs [Listenarr](https://github.com/Listenarrs/Listenarr) inside Home Assistant OS.
 
 ### [BookLore Home Assistant App - Depreciated](./bookloreserver)
 ![GitHub Release](https://img.shields.io/github/v/release/bigred10151990/bookloreserver)
