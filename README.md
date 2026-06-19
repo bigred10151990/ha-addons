@@ -126,7 +126,7 @@ This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-br
 [commits]: https://github.com/bigred10151990/ha-addons/commits/main
 [license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-wip-yellow.svg
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
 
