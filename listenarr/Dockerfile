@@ -1,3 +1,3 @@
-FROM ghcr.io/listenarrs/listenarr:canary-1.0.10
+FROM ghcr.io/listenarrs/listenarr:canary-1.2.1
 
 EXPOSE 80
