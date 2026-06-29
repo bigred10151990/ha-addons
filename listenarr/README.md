@@ -1,5 +1,5 @@
 # Listenarr Home Assistant App
-![Static Badge](https://img.shields.io/badge/release-1.0.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.1.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -28,7 +28,7 @@
 
 This App runs [Listenarr](https://github.com/Listenarrs/Listenarr) inside Home Assistant OS.
 
-Base Listenarr Version 1.0.11
+Base Listenarr Version 1.2.1
 
 **This app REQUIRES a share folder to write to for data persistance across updates. If you do not set LISTENARR_CONTENT_ROOT to a writeable folder you will lose all of the app data on update.**
 
