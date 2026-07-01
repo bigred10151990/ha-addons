@@ -40,7 +40,7 @@ This repository contains the following apps
 This app runs [AudioBookShelf](https://www.audiobookshelf.org/) inside Home Assistant OS.
 
 ### [Grimmory Home Assistant App](./grimmroyserver)
-![Static Badge](https://img.shields.io/badge/release-3.2.1-blue)
+![Static Badge](https://img.shields.io/badge/release-3.2.2-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -72,7 +72,7 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 **This addon REQUIRES the MariaDB app or a seprate MariaDB instance**
 
 ### [ABS-KoSync Enhanced App](./abs-kosync-enhanced)
-![Static Badge](https://img.shields.io/badge/release-1.3.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.4.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
