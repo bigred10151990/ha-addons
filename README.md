@@ -72,7 +72,7 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 **This addon REQUIRES the MariaDB app or a seprate MariaDB instance**
 
 ### [ABS-KoSync Enhanced App](./abs-kosync-enhanced)
-![Static Badge](https://img.shields.io/badge/release-1.3.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.4.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
