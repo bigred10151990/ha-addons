@@ -1,5 +1,5 @@
 # Grimmory Home Assistant App
-![Static Badge](https://img.shields.io/badge/release-3.2.1-blue)
+![Static Badge](https://img.shields.io/badge/release-3.2.2-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -28,7 +28,7 @@
 
 This App runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home Assistant OS.
 
-Base Grimmory Version 3.2.1
+Base Grimmory Version 3.2.4
 
 **This app REQUIRES the MariaDB app or a seprate MariaDB instance**
 
