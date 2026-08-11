@@ -101,6 +101,37 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 
 This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-bridge) inside Home Assistant OS.
 
+### [Chaptarr Home Assistant App](./chaptarr)
+
+![Static Badge](https://img.shields.io/badge/release-0.9.0-blue)
+![Project Stage][project-stage-shield]
+[![License][license-shield]](LICENSE.md)
+
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
+
+![Project Maintenance][maintenance-shield]
+[![GitHub Activity][commits-shield]][commits]
+
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bigred10151990/ha-addons.svg
+[commits]: https://github.com/bigred10151990/ha-addons/commits/main
+[license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/bigred10151990)
+
+This App runs [Chaptarr](https://hub.docker.com/r/robertlordhood/chaptarr) inside Home Assistant OS.
+
 ### [Listenarr Home Assistant App](./listenarr)
 
 ![Static Badge](https://img.shields.io/badge/release-1.1.0-blue)
