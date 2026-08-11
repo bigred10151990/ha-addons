@@ -1,0 +1,31 @@
+name: Chaptarr
+version: 0.9.0
+slug: chaptarrserver
+description: Chaptarr is a self-hosted app for managing books & audiobooks
+arch:
+  - amd64
+  - aarch64
+boot: manual
+environment:
+  PUID: "1000"
+  PGID: "1000"
+  TZ: Etc/UTC
+  CHAPTARR_PORT: "8789"
+options:
+  TZ: Etc/UTC
+  PUID: "1000"
+  PGID: "1000"
+schema:
+  TZ: str
+  PUID: str
+  PGID: str
+ports:
+  8789/tcp: 8789
+ports_description:
+  8789/tcp: Web interface port. Do Not Change!
+webui: http://[HOST]:[PORT:8789]
+legacy: true
+map:
+  - media:rw
+  - addon_config:rw
+  - share:rw
