@@ -1,5 +1,5 @@
 # Chaptarr Home Assistant App
-![Static Badge](https://img.shields.io/badge/release-0.9.0-blue)
+![Static Badge](https://img.shields.io/badge/release-0.9.1-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -28,7 +28,7 @@
 
 This App runs [Chaptarr](https://hub.docker.com/r/robertlordhood/chaptarr) inside Home Assistant OS.
 
-Base Chaptarr Version 0.9.925
+Base Chaptarr Version 0.9.929
 
 This app has access to the addon_config, media and share folders.
 
