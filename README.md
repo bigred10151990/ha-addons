@@ -103,7 +103,7 @@ This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-br
 
 ### [Chaptarr Home Assistant App](./chaptarr)
 
-![Static Badge](https://img.shields.io/badge/release-0.9.1-blue)
+![Static Badge](https://img.shields.io/badge/release-0.9.2-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
