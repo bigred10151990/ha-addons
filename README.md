@@ -10,7 +10,7 @@ This repository contains the following apps
 
 ### [Audiobookshelf Home Assistant App](./audiobookshelfserver)
 
-![Static Badge](https://img.shields.io/badge/release-1.5.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.5.1-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
