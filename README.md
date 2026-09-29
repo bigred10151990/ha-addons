@@ -10,7 +10,7 @@ This repository contains the following apps
 
 ### [Audiobookshelf Home Assistant App](./audiobookshelfserver)
 
-![Static Badge](https://img.shields.io/badge/release-1.5.1-blue)
+![Static Badge](https://img.shields.io/badge/release-1.6.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -72,7 +72,7 @@ This app runs [Grimmory](https://github.com/grimmory-tools/grimmory) inside Home
 **This addon REQUIRES the MariaDB app or a seprate MariaDB instance**
 
 ### [ABS-KoSync Enhanced App](./abs-kosync-enhanced)
-![Static Badge](https://img.shields.io/badge/release-1.9.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.10.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
@@ -103,7 +103,7 @@ This app runs [ABS-KoSync Enhanced](https://github.com/cporcellijr/abs-kosync-br
 
 ### [Chaptarr Home Assistant App](./chaptarr)
 
-![Static Badge](https://img.shields.io/badge/release-0.9.2-blue)
+![Static Badge](https://img.shields.io/badge/release-0.9.3-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
