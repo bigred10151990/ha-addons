@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.10.0
+- Update to Version 7.8.0
+
 ## 1.9.0
 - Update to Version 7.7.0
 
