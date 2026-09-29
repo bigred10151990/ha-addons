@@ -1,4 +1,4 @@
 ---
 build_from:
-  aarch64: chaptarr/chaptarr:0.9.958
-  amd64: chaptarr/chaptarr:0.9.958
+  aarch64: chaptarr/chaptarr:0.9.965
+  amd64: chaptarr/chaptarr:0.9.965
