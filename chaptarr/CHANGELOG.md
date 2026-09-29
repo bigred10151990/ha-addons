@@ -1,4 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 0.9.3
+- Chaptarr Update to v0.9.965
+
 ## 0.9.2
 - Chaptarr Update to v0.9.958
 
