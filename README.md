@@ -134,7 +134,7 @@ This App runs [Chaptarr](https://hub.docker.com/r/robertlordhood/chaptarr) insid
 
 ### [Listenarr Home Assistant App](./listenarr)
 
-![Static Badge](https://img.shields.io/badge/release-1.1.0-blue)
+![Static Badge](https://img.shields.io/badge/release-1.2.0-blue)
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
 
