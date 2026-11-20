@@ -1,4 +1,8 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 3.4.1
+Update Grimmory to version 3.5.1
+This patch release mitigates CVE-2026-114938 by adding the -XX:-UseBASE64Intrinsics flag to the startup command for the Docker Image.
+
 ## 3.4.0
 Update Grimmory to version 3.5.0
 
